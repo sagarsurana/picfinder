@@ -2,7 +2,7 @@
   "name": "data-explorer-sagarsurana",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://info343-su18.github.io/data-explorer-sagarsurana",
+  "homepage": "https://sagarsurana.github.io/picfinder",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "gh-pages": "^1.2.0",
